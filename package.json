@@ -1,7 +1,7 @@
 {
-  "name": "node-js-sample",
+  "name": "node-portfolio-app",
   "version": "0.1.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "My personal portfolio",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
